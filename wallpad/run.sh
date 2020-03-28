@@ -27,4 +27,4 @@ echo "[Info] Wallpad Controller stand by... : "$JS_FILE
 JS_FILE=/$SHARE_DIR/$JS_FILE
 node $JS_FILE
 
-#while true; do echo "still live"; sleep 1800; done
+while true; do echo "[Info] still live"; sleep 1800; done
